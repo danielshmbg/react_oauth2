@@ -37,7 +37,6 @@ let AzureComponent = createReactClass({
         Login With Google From component
   </Azure>
       <hr />
-      {JSON.stringify(this.state)}
     </div>
   }
 });
