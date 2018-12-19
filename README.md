@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is another version build from [Maxifjaved-React Social Login](https://github.com/maxifjaved/react-oauth2/).
+Developed for training purpose on how to use Azure AD Auth in ReactJS.
+
 ## Available Scripts
 
 In the project directory, you can run:
